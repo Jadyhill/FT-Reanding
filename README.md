@@ -2,20 +2,16 @@
 Accumulation of news reading
 
 
-峰峰哥的隔日一句
+## 峰峰哥的隔日一句
 
 
-共识（Consensus）
-①走出舒适区，直面恐惧
-迈向未知，越走越有趣
+### 共识（Consensus）
+
+- 走出舒适区，直面恐惧；迈向未知，越走越有趣！
+- 通过长时间积累取得的进步；优势一旦形成，别人很难超越！
 
 
-
-②通过长时间积累取得的进步
-优势一旦形成，别人很难超越
-
-
-隔日一句（Q&A）
+### 隔日一句（Q&A）
 
 Q1：隔日一句是什么？
 A1：财经政治文化科技类
@@ -42,19 +38,19 @@ A6：请看下文
 
 
 
-原文链接：http://dwz.cn/6Z5EPs（点击阅读原文）
+[原文链接](http://dwz.cn/6Z5EPs）
 
-China has reduced debt as a proportion of gross domestic product for the first time in almost six years, in an indication it is tackling what is widely seen as the main economic threat.（感觉每个单词都鸡儿认识，但是就是翻译不出来，想屎）
+> China has reduced debt as a proportion of gross domestic product for the first time in almost six years, in an indication it is tackling what is widely seen as the main economic threat.（感觉每个单词都鸡儿认识，但是就是翻译不出来，想屎）
 
 己译：中国在近6年里，第一次削减作为GDP一部分的债务。这也预示着政府正在处理广为人知的主要经济威胁。（我乍一看也翻译不好）
 
 官方：中国近六年里首次降低债务占国民生产总值的比重。这表明中国正在解决被广泛视为的主要经济威胁
 
-in an indication 这表明
+`in an indication` 这表明
 
-Debt as a proportion of gross domestic product（GDP的全称） 债务占国民生产总值的比重
+`Debt as a proportion of gross domestic product（GDP的全称）` 债务占国民生产总值的比重
 
-it is tackling（tackle解决） what is widely seen as the main economic threat 正在解决被广泛视为主要的经济威胁（这里的两个as用的实在妙啊）
+`it is tackling（tackle解决） what is widely seen as the main economic threat `正在解决被广泛视为主要的经济威胁（这里的两个as用的实在妙啊）
 
 
 

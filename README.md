@@ -48,7 +48,7 @@ A6：请看下文
 
 `in an indication` 这表明
 
-`Debt as a proportion of gross domestic product（GDP的全称）` 债务占国民生产总值的比重
+`Debt <font color=red>as</font> a proportion of gross domestic product（GDP的全称）` 债务占国民生产总值的比重
 
 `it is tackling（tackle解决） what is widely seen as the main economic threat `正在解决被广泛视为主要的经济威胁（这里的两个as用的实在妙啊）
 
